@@ -1,4 +1,4 @@
-### Hi there, I'm a [codercat!](https://coder.cat) 👋
+### Hi there, I'm a [codercat](https://coder.cat) !👋
 
 <br />
 
