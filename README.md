@@ -2,7 +2,7 @@
 
 <br />
 
-Welcome to my profile. I'm a passionate self-taught backend developer from China.
+Welcome to my profile. I'm a passionate self-taught backend developer.
 
 - 🌱 I'm currently learning Rsut and Computer Science
 - 💬 I'm currently reading CSAPP
