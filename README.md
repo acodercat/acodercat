@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![github stats](https://github-readme-stats.vercel.app/api?username=acodercat&show_icons=true&theme=radical)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=acodercat&repo=php-jwk-to-pem)](https://github.com/acodercat/php-jwk-to-pem)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acodercat)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **acodercat/acodercat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
