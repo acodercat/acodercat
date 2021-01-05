@@ -1,7 +1,6 @@
 ### Hi there, I'm a [Codercat!](https://coder.cat) 👋
 
 <br />
-<br />
 
 Hi, I'm a codercat, a passionate self-taught backend developer from China.
 
