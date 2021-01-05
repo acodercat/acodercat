@@ -1,8 +1,8 @@
-### Hi there, I'm a [Codercat!](https://coder.cat) 👋
+### Hi there, I'm a [coder cat!](https://coder.cat) 👋
 
 <br />
 
-Hi, I'm a codercat, a passionate self-taught backend developer from China.
+Hi, I'm a coder cat, a passionate self-taught backend developer from China.
 
 - 🌱 I'm currently learning Rsut and Computer Science
 - 💬 I'm currently reading CSAPP
