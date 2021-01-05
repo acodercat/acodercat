@@ -5,7 +5,7 @@
 Welcome to my profile. I'm a passionate self-taught backend developer.
 
 - 🌱 I'm currently learning Rsut and Computer Science
-- 💬 I'm currently reading CSAPP
+- :green_book: I'm currently reading CSAPP
 
 **Languages and Tools:**  
 
