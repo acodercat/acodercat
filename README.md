@@ -5,10 +5,10 @@
 
 Hi, I'm a codercat, a passionate self-taught backend developer from China.
 
-- 🔭 I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components)
-- 🌱 I’m currently learning Rsut and Computer Science
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 🔭 I'm currently working on [renderless-components](https://github.com/timelessco/renderless-components)
+- 🌱 I'm currently learning Rsut and Computer Science
+- 👯 I'm looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- 💬 I'm reading is CSAPP [here](https://github.com/anuraghazra/anuraghazra/issues)
 
 **Languages and Tools:**  
 
