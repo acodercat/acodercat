@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![github stats](https://github-readme-stats.vercel.app/api?username=acodercat&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acodercat&hide=css,html&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acodercat&hide=css,html,Jupyter%20Notebook&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **acodercat/acodercat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
