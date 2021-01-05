@@ -1,11 +1,8 @@
 ### Hi there 👋
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=acodercat" />
-</a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acodercat&hide=css,html,Jupyter%20Notebook&langs_count=8&layout=compact&bg_color=start" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acodercat&hide=css,html,Jupyter%20Notebook&langs_count=8&layout=compact&bg_color=start" />
 </a>
 
 <!--
