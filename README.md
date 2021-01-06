@@ -6,7 +6,7 @@ Welcome to my profile. I'm a passionate self-taught backend developer.
 
 - 💻 I'm currently language used at working: Javascript, TypeScript, Python
 - 🌱 I'm currently learning Rust and Computer Science
-- 📗 I'm currently reading CSAPP
+- 📗 :octocat: I'm currently reading CSAPP
 
 **Languages and Tools:**  
 
