@@ -10,10 +10,19 @@ Welcome to my profile. I'm a passionate self-taught backend developer.
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" src="https://image.coder.cat/c.png"></code>
+<code><img height="20" src="https://image.coder.cat/javascript.png"></code>
+<code><img height="20" src="https://image.coder.cat/typescript.png"></code>
+<code><img height="20" src="https://image.coder.cat/nodejs.png"></code>
+<code><img height="20" src="https://image.coder.cat/python.png"></code>
+<code><img height="20" src="https://image.coder.cat/php.png"></code>
+<code><img height="20" src="https://image.coder.cat/rust.png"></code>
+<code><img height="20" src="https://image.coder.cat/postgresql.png"></code>
+<code><img height="20" src="https://image.coder.cat/rabbitmq.png"></code>
+<code><img height="20" src="https://image.coder.cat/symfony.png"></code>
+<code><img height="20" src="https://image.coder.cat/laravel.png"></code>
+<code><img height="20" src="https://image.coder.cat/flask.png"></code>
+<code><img height="20" src="https://image.coder.cat/vue.png"></code>
+<code><img height="20" src="https://image.coder.cat/ubuntu.png"></code>
+<code><img height="20" src="https://image.coder.cat/docker.png"></code>
+ 
