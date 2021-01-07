@@ -1,10 +1,9 @@
 ### Hi there, I'm a [codercat](https://coder.cat) !👋
 
-<br />
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=acodercat /> </p
+
 
 Welcome to my profile. A young :boy: backend developer from China :cn: .
-
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=acodercat alt=rahuldkjain/> </p>
 
 - 💻 I'm currently language used at working: <code><img height="20" src="https://image.coder.cat/python.png"></code><code><img height="20" src="https://image.coder.cat/javascript.png"></code><code><img height="20" src="https://image.coder.cat/typescript.png"></code>
 - 🌱 I'm currently learning *Rust* and *Computer science*
