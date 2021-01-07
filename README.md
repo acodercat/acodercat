@@ -4,9 +4,7 @@
 
 Welcome to my profile. I'm a passionate self-taught backend developer.
 
-- 💻 I'm currently language used at working: <code><img height="20" src="https://image.coder.cat/c.png"></code>
-<code><img height="20" src="https://image.coder.cat/javascript.png"></code>
-<code><img height="20" src="https://image.coder.cat/typescript.png"></code>
+- 💻 I'm currently language used at working: <code><img height="20" src="https://image.coder.cat/python.png"></code><code><img height="20" src="https://image.coder.cat/javascript.png"></code><code><img height="20" src="https://image.coder.cat/typescript.png"></code>
 - 🌱 I'm currently learning Rust and Computer Science
 - 📗 I'm currently reading CSAPP
 
