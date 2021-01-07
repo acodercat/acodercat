@@ -10,7 +10,7 @@ Welcome to my profile. I'm a passionate self-taught backend developer.
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://image.coder.cat/c.png"></code>
+<img height="20" src="https://image.coder.cat/c.png">
 <code><img height="20" src="https://image.coder.cat/javascript.png"></code>
 <code><img height="20" src="https://image.coder.cat/typescript.png"></code>
 <code><img height="20" src="https://image.coder.cat/nodejs.png"></code>
