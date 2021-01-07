@@ -2,7 +2,7 @@
 
 <br />
 
-Welcome to my profile. I'm a backend developer A young 🤓 backend developer from China :cn: <.
+Welcome to my profile. A young :boy: backend developer from China :cn: .
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=acodercat alt=rahuldkjain/> </p>
 
