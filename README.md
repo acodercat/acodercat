@@ -4,6 +4,7 @@
 
 
 Welcome to my profile. A young :boy: backend developer from China :cn: .
+I’m very keen on anything related to computers and technology.
 
 - 💻 I'm currently language used at working <code><img height="20" src="https://image.coder.cat/python.png"></code><code><img height="20" src="https://image.coder.cat/javascript.png"></code><code><img height="20" src="https://image.coder.cat/typescript.png"></code><code><img height="20" src="https://image.coder.cat/c.png"></code>
 - 🌱 I'm currently learning *Rust* and *UNIX/Linux*
