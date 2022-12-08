@@ -3,8 +3,7 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=acodercat&style=flat-square&color=green /> </p
 
 
-Welcome to my profile. A young :boy: backend developer from China :cn:.
- 
+Welcome to my profile. A young :boy: backend developer.
  
 I’m very keen on anything related to computers and technology.
 
