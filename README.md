@@ -9,6 +9,8 @@ Welcome to my profile. A young :boy: backend developer from China :cn: .
 - 🌱 I'm currently learning *Rust* and *UNIX/Linux*
 - 📗 I'm currently reading *CSAPP*, *Designing Data-Intensive Application*, *APUE*
 
+To learn about more my professional work, check out my [LinkedIn]([https://coder.cat](https://www.linkedin.com/in/maohao-ran-5a91541bb)
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://image.coder.cat/c.png"></code>
