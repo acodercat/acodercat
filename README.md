@@ -12,7 +12,7 @@ I’m very keen on anything related to computers and technology.
 
 To learn about more my professional work, check out my [LinkedIn](https://www.linkedin.com/in/maohao-ran-5a91541bb)
 
-**Tect Stack:**
+**Tech Stack:**
 
 **Programming Languages:**
 - `C`
