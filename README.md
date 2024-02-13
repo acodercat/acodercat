@@ -13,7 +13,7 @@ I'm a passionate backend developer. Delving deep into the digital realm, I explo
 - 💻 I'm currently using languages at work: `Python`, `JavaScript`, `TypeScript`, `Rust`
 - 📗 I'm currently reading *CSAPP*, *Designing Data-Intensive Applications*, *APUE*"
 
-### Things I frequently code with
+### Things I Frequently Code With
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
