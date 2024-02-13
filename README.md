@@ -16,6 +16,8 @@ To learn about more my professional work, check out my [LinkedIn](https://www.li
 
 **Tech Stack:**
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 **Programming Languages:**
 - `C`
 - `Rust`
