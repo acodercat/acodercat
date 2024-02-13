@@ -15,6 +15,7 @@ I’m very keen on anything related to computers and technology.
 - 📗 I'm currently reading *CSAPP*, *Designing Data-Intensive Applications*, *APUE*
 - 
 **Things I code with:**
+  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
