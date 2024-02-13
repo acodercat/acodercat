@@ -5,7 +5,7 @@
 
 ---
 
-### Welcome to My Digital Den 🌐
+### What I'm Focused On 🔍 
 
 I'm a passionate backend developer. Delving deep into the digital realm, I explore, create, and innovate. I’m very keen on anything related to computers and technology.
 
