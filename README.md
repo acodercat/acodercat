@@ -14,7 +14,7 @@ I’m very keen on anything related to computers and technology.
 - 🌱 I'm currently exploring `LLM application development`
 - 📗 I'm currently reading *CSAPP*, *Designing Data-Intensive Applications*, *APUE*
 - 
-**Things I currently code with:**
+**Things I frequently code with:**
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
