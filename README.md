@@ -1,23 +1,17 @@
-### Hi there, I'm Codercat! 👋
+### Hi there, I'm Ram! 👋
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </p>
-
-<div align="center">
-  
-  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maohao-ran-5a91541bb)
-  
-</div>
-
 ---
 
 ### Welcome to My Digital Den 🌐
 
-As a backend developer with a knack for exploration and innovation, I delve into the depths of coding to create impactful solutions. Here's what's currently capturing my attention:
+I'm a passionate backend developer. Delving deep into the digital realm, I explore, create, and innovate. I’m very keen on anything related to computers and technology.
 
-- 💻 **Languages I Speak**: Fluent in `Python`, `JavaScript`, `TypeScript`, and `Rust`.
-- 🌱 **Explorations**: Diving into `LLM application development` to unlock new potentials.
-- 📚 **Current Reads**: Absorbing knowledge from *CSAPP*, *Designing Data-Intensive Applications*, and *APUE*.
+
+- 💻 I'm currently using languages at work: `Python`, `JavaScript`, `TypeScript`, `Rust`
+- 🌱 I'm currently exploring `LLM application development`
+- 📗 I'm currently reading *CSAPP*, *Designing Data-Intensive Applications*, *APUE*"
 
 ### Tools & Technologies
 
@@ -35,3 +29,8 @@ As a backend developer with a knack for exploration and innovation, I delve into
 ---
 
 Feel free to explore my projects and reach out if you're interested in collaborating or just want to chat about tech!
+<div align="center">
+  
+  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maohao-ran-5a91541bb)
+  
+</div>
