@@ -14,18 +14,27 @@ To learn about more my professional work, check out my [LinkedIn](https://www.li
 
 **Languages and Tools:**
 
+**Programming Languages:**
 - `C`
 - `JavaScript`
 - `TypeScript`
-- `Node.js`
 - `Python`
 - `PHP`
 - `Rust`
+
+**Databases:**
 - `PostgreSQL`
+
+**Message Queues:**
 - `RabbitMQ`
+
+**Frameworks:**
+- `Node.js`
 - `Symfony`
 - `Laravel`
 - `Flask`
 - `Vue.js`
+
+**Technologies/Operating Systems:**
 - `Ubuntu`
 - `Docker`
