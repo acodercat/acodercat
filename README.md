@@ -1,5 +1,5 @@
 ### Hi, I'm Ram 👋 - Full Stack Developer
-I'm a passionate backend developer. Delving deep into the digital realm, I explore, create, and innovate. I’m very keen on anything related to computers and technology.
+I'm a passionate backend developer. Delving deep into the digital realm, I explore, create, and innovate.
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
 
@@ -8,6 +8,8 @@ I'm a passionate backend developer. Delving deep into the digital realm, I explo
 ---
 
 ### What I'm Focused On
+
+I’m very keen on anything related to computers and technology.
 
 - 🚀 I'm exploring LLM application development to build smarter AI-driven solutions.
 - 💻 I'm currently using languages at work: Python, JavaScript, TypeScript, Rust.
