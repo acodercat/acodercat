@@ -14,7 +14,7 @@ I'm a passionate backend developer. Delving deep into the digital realm, I explo
 - 🌱 I'm currently exploring `LLM application development`
 - 📗 I'm currently reading *CSAPP*, *Designing Data-Intensive Applications*, *APUE*"
 
-### Technologies & Tools 🛠️
+### Frequently Used Technologies & Tools 🛠️
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
