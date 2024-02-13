@@ -5,7 +5,7 @@
 
 ---
 
-### What I'm Focused On 🔍 
+### What I'm Focused On
 
 I'm a passionate backend developer. Delving deep into the digital realm, I explore, create, and innovate. I’m very keen on anything related to computers and technology.
 
@@ -13,7 +13,7 @@ I'm a passionate backend developer. Delving deep into the digital realm, I explo
 - 💻 I'm currently using languages at work: `Python`, `JavaScript`, `TypeScript`, `Rust`
 - 📗 I'm currently reading *CSAPP*, *Designing Data-Intensive Applications*, *APUE*"
 
-### Things I frequently code with 🛠️
+### Things I frequently code with
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
