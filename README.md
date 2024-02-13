@@ -10,8 +10,8 @@
 I'm a passionate backend developer. Delving deep into the digital realm, I explore, create, and innovate. I’m very keen on anything related to computers and technology.
 
 - 🚀 I'm exploring `LLM application development` to build smarter AI-driven solutions.
-- 💻 I'm currently using languages at work: `Python`, `JavaScript`, `TypeScript`, `Rust`
-- 📗 I'm currently reading *CSAPP*, *Designing Data-Intensive Applications*, *APUE*"
+- 💻 I'm currently using languages at work: `Python`, `JavaScript`, `TypeScript`, `Rust`.
+- 📗 I'm currently reading `Computer Systems: A Programmer's Perspective`.
 
 ### Things I Frequently Code With
 
