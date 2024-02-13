@@ -1,5 +1,5 @@
-### Hi, I'm Ram 👋 | Full Stack Developer
-I'm a passionate backend developer. Delving deep into the digital realm, I explore, create, and innovate.
+### Hi, I'm Ram 👋 | Full Stack & Backend Developer
+Driven by passion, I dive deep into the digital realm to create and explore cutting-edge solutions.
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
 
