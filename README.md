@@ -39,6 +39,8 @@ To learn about more my professional work, check out my [LinkedIn](https://www.li
 - `Flask`
 - `Vue.js`
 
-**Technologies/Operating Systems:**
+**Others:**
 - `Ubuntu`
 - `Docker`
+- `AWS`
+- `Machine Learning`
