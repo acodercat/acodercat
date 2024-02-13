@@ -36,8 +36,3 @@ I'm a passionate backend developer. Delving deep into the digital realm, I explo
 ---
 
 Feel free to explore my projects and reach out if you're interested in collaborating or just want to chat about tech!
-<div align="center">
-  
-  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maohao-ran-5a91541bb)
-  
-</div>
