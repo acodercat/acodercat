@@ -16,20 +16,24 @@ To learn about more my professional work, check out my [LinkedIn](https://www.li
 
 **Programming Languages:**
 - `C`
+- `Rust`
 - `JavaScript`
 - `TypeScript`
 - `Python`
 - `PHP`
-- `Rust`
 
 **Databases:**
 - `PostgreSQL`
+- `MySQL`
 
 **Message Queues:**
 - `RabbitMQ`
 
 **Frameworks:**
-- `Node.js`
+- `Langchain`
+- `LlamaIndex`
+- `FastAPI`
+- `NestJS`
 - `Symfony`
 - `Laravel`
 - `Flask`
