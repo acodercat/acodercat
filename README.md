@@ -1,6 +1,6 @@
 ### Hi there, I'm a codercat!👋
 
-<p align="left"> ![](https://komarev.com/ghpvc/?username=acodercat&style=flat-square&color=green) </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=acodercat&style=flat-square&color=green /> </p>
 
 Welcome to my profile. A young :boy: backend developer.
 
