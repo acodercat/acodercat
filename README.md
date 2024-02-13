@@ -4,7 +4,7 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=acodercat&style=flat-square&color=green /> </p>
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)([target_url](https://www.linkedin.com/in/maohao-ran-5a91541bb))
 
 Welcome to my profile. A young :boy: backend developer.
 
@@ -13,9 +13,7 @@ I’m very keen on anything related to computers and technology.
 - 💻 I'm currently using languages at work: `Python`, `JavaScript`, `TypeScript`, `Rust`
 - 🌱 I'm currently exploring `LLM application development`
 - 📗 I'm currently reading *CSAPP*, *Designing Data-Intensive Applications*, *APUE*
-
-To learn about more my professional work, check out my [LinkedIn](https://www.linkedin.com/in/maohao-ran-5a91541bb)
-
+- 
 **Tech Stack:**
 
 **Programming Languages:**
