@@ -4,7 +4,7 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=acodercat&style=flat-square&color=green /> </p>
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)([target_url](https://www.linkedin.com/in/maohao-ran-5a91541bb))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maohao-ran-5a91541bb)
 
 Welcome to my profile. A young :boy: backend developer.
 
