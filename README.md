@@ -6,8 +6,8 @@ Welcome to my profile. A young :boy: backend developer.
 
 I’m very keen on anything related to computers and technology.
 
-- 💻 I'm currently using languages at work: `Python`, `JavaScript`, `TypeScript`, `C`
-- 🌱 I'm currently learning `Rust` and `UNIX/Linux`
+- 💻 I'm currently using languages at work: `Python`, `JavaScript`, `TypeScript`, `Rust`
+- 🌱 I'm currently exploring `LLM application development`
 - 📗 I'm currently reading *CSAPP*, *Designing Data-Intensive Applications*, *APUE*
 
 To learn about more my professional work, check out my [LinkedIn](https://www.linkedin.com/in/maohao-ran-5a91541bb)
