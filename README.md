@@ -1,6 +1,5 @@
 ### Hi, I'm Ram 👋 | Full Stack & Backend Developer
 Driven by passion, I dive deep into the digital realm to create and explore cutting-edge solutions.
-<small>Exploring beyond the backend, I embrace the full spectrum of web development.</small>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
 
