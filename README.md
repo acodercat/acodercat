@@ -2,17 +2,17 @@
 ### Hi there, I'm a codercat!👋
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300">
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=acodercat&style=flat-square&color=green /> </p>
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maohao-ran-5a91541bb)
 
-Welcome to my profile. A young :boy: backend developer.
+### Welcome to My GitHub Profile! 👋
 
-I’m very keen on anything related to computers and technology.
+I'm a passionate backend developer. Delving deep into the digital realm, I explore, create, and innovate.
 
-- 💻 I'm currently using languages at work: `Python`, `JavaScript`, `TypeScript`, `Rust`
-- 🌱 I'm currently exploring `LLM application development`
-- 📗 I'm currently reading *CSAPP*, *Designing Data-Intensive Applications*, *APUE*
+🔍 **What I'm Focused On:**
+- **Languages & Technologies**: I wield `Python`, `JavaScript`, `TypeScript`, and `Rust` to breathe life into my projects.
+- **Current Exploration**: Venturing into the exciting world of **LLM (Large Language Models)** application development, where AI meets creativity.
+- **Literary Companions**: My current reads include the seminal **"Computer Systems: A Programmer's Perspective (CSAPP)"**, **"Designing Data-Intensive Applications"** for scalable systems insights, and **"Advanced Programming in the UNIX Environment (APUE)"** for a deep dive into UNIX/Linux systems.
+
 
 
 **Things I frequently code with:**
