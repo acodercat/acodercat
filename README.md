@@ -2,6 +2,13 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </p>
+
+<div align="center">
+  
+  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maohao-ran-5a91541bb)
+  
+</div>
+
 ---
 
 ### Welcome to My Digital Den 🌐
