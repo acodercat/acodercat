@@ -1,6 +1,6 @@
 ### Hi, I'm Ram 👋 | Full Stack & Backend Developer
 
-I'm passionate about all things related to computers and technology, and I'm always eager to share and discuss techniques. Feel free to [book a meeting with me](https://app.cal.com/codercat) at your convenience. I look forward to our conversation!
+I'm passionate about technology and ready to discuss techniques. [Book a meeting with me](https://app.cal.com/codercat) anytime!
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
