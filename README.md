@@ -1,5 +1,5 @@
 ### Hi, I'm Ram 👋 | Full Stack & Backend Developer
-Driven by passion, I’m very keen on anything related to computers and technology [Book a meeting with me](https://app.cal.com/codercat).
+Driven by passion, I am a seasoned software engineer with 8 years of experience and an enthusiast in all things related to computers and technology. I would be delighted to discuss this further with you. Please feel free to [book a meeting with me](https://app.cal.com/codercat) at your convenience.
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
