@@ -27,4 +27,4 @@ Researcher at **HKUST (HKGAI)** focused on **RL for LLMs** and **Agentic AI**.
 
 ---
 
-📅 [Book a Meeting](https://app.cal.com/codercat) · 💬 Let's chat about AI agents, LLM, or tech!
+📅 [Book a Meeting](https://app.cal.com/codercat) — Let's chat about AI agents, LLMs, or research
