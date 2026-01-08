@@ -7,14 +7,14 @@ Researcher at **HKUST (HKGAI)** focused on **RL for LLMs** and **Agentic AI**.
 ---
 
 ### Research Interests
-- 🔬 Reinforcement Learning for Large Language Models
-- 🤖 LLM Agentic Systems & Tool Use
-- 🧠 Stateful Runtime Management for AI Agents
+- Reinforcement Learning for Large Language Models
+- LLM Agentic Systems & Tool Use
+- Stateful Runtime Management for AI Agents
 
 ### What I'm Working On
-- 🚀 Building smarter AI-driven solutions with LLM agents
-- 🌍 Applying LLMs and AI to tackle air pollution problems
-- 📊 A benchmark framework enabling RLVR (RL with Verifiable Rewards) for LLM agents—objective state inspection instead of text-based evaluation
+- Building smarter AI-driven solutions with LLM agents
+- Applying LLMs and AI to tackle air pollution problems
+- A benchmark framework enabling RLVR (RL with Verifiable Rewards) for LLM agents—objective state inspection instead of text-based evaluation
 
 ### Tech Stack
 
